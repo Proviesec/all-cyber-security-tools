@@ -6,6 +6,8 @@
 ## XSS
 https://github.com/s0md3v/XSStrike
 
+### XSS Payloads
+
 ## CRLF
 Crlffuzz
 
