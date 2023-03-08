@@ -4,7 +4,7 @@
 # Scanner 
 
 ## XSS
-https://github.com/s0md3v/XSStrike
+- https://github.com/s0md3v/XSStrike
 
 ### XSS Payloads
 
@@ -12,8 +12,8 @@ https://github.com/s0md3v/XSStrike
 Crlffuzz
 
 ## Assets scanner 
-https://github.com/LukaSikic/subzy
-https://github.com/jonluca/anubis
+- https://github.com/LukaSikic/subzy
+- https://github.com/jonluca/anubis
 
 ## Fuzz Scanner 
 PSFuzz
