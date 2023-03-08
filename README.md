@@ -12,6 +12,8 @@ https://github.com/s0md3v/XSStrike
 Crlffuzz
 
 ## Assets scanner 
+https://github.com/LukaSikic/subzy
+https://github.com/jonluca/anubis
 
 ## Fuzz Scanner 
 PSFuzz
