@@ -16,8 +16,9 @@ Crlffuzz
 - https://github.com/jonluca/anubis
 
 ## Fuzz Scanner 
-PSFuzz
-Fuff
+[PSFuzz - Scanner](https://github.com/Proviesec/PSFuzz)
+[Fuff - Scanner](https://github.com/ffuf/ffuf)
+[WFUZZ - Scanner](https://github.com/xmendez/wfuzz)
 
 # Monitoring 
 ## SIEM
